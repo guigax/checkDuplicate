@@ -10,7 +10,7 @@ I got this code from [The Go Programming Language: A Tutorial](https://www.infor
 
 ## Build
 
-    go build checkDuplicate
+    go build
 
 ## Usage
 
